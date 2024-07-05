@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WinterBlossom0
-- 👀 I’m interested in ...
+- 👀 I’m interested in 
 - 🌱 I’m currently learning different algorithms used in machine learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me- codr.enyte@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
