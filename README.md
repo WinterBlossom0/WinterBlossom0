@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Winter (@WinterBlossom0)
 
+![Profile Views](https://komarev.com/ghpvc/?username=WinterBlossom0&color=blue)
+
 ## 💻 Machine Learning/AI Enthusiast
 
 I'm passionate about extracting insights from data and building intelligent systems that solve real-world problems.
@@ -22,9 +24,13 @@ I'm passionate about extracting insights from data and building intelligent syst
 
 - 📧 Email: codr.enyte@gmail.com
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterBlossom0&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WinterBlossom0&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterBlossom0&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WinterBlossom0&theme=radical)
 
 ## 😄 Pronouns
 He/Him
